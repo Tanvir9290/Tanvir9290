@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tanvir9290
-- 👀 Typescript, React js.
-- 🌱 Python, Node js, also working with human behavior analysis.
-- 💞️ Anyone interested market basket analysis in Python. 
-- 📫 How to reach me ...
+- 👀 Interested in Typescript, React js.
+- 🌱 Currently working with Python, Node js, also working with human behavior signature analysis.
+- 💞️ Anyone interested market basket analysis feel free to contact me. 
+- 📫 You can reach me by using gmail, reddit, facebook, twitter or discord just follow the username. And you good to go. 
 
 <!---
 Tanvir9290/Tanvir9290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
